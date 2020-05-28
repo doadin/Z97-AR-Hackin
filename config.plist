@@ -762,6 +762,8 @@
 		<string>C02PL0W6FY10</string>
 		<key>SmUUID</key>
 		<string>128858EE-32E5-45EF-9ADD-102A40F43747</string>
+		<key>NoRomInfo</key>
+		<true/>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
